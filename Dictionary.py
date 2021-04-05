@@ -11,12 +11,6 @@ Cities= {
         'Plaka' : '35',
         'Bölge' :'Ege'
     },
-    'İstanbul':{
-        'Nufus' : 15046000,
-        'Roles' : ['user'],
-        'Plaka' : '34',
-        'Bölge' :'Marmara'
-    },
     'Balıkesir':{
         'Nufus' : 255555558,
         'Roles' : ['user'],
