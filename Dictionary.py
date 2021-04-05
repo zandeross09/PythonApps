@@ -16,6 +16,12 @@ Cities= {
         'Roles' : ['user'],
         'Plaka' : '34',
         'Bölge' :'Marmara'
+    },
+    'Balıkesir':{
+        'Nufus' : 255555558,
+        'Roles' : ['user'],
+        'Plaka' : '10',
+        'Bölge' :'Marmara'
     }
 }
 print(Cities['Aydın']['Roles'][0])
